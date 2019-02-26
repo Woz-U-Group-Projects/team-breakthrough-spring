@@ -1,0 +1,2 @@
+# team-breakthrough-spring
+This is the back end for the Team Breakthrough project. I am unable to figure out how to combine master and LDCbranch, but the full code needed is in LDCbranch and should merge with master; however, it is not.  I know this has something to do with how it was originally cloned(or not cloned) correctly to my machine, but I am unable to resolve it at this time.  If you are looking at this project and have insight, please share! And thanks in advance!
